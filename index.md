@@ -9,18 +9,14 @@ author_profile: true
 
 **Education**
 
-* **[Degree Name]**, [University Name], [Graduation Year]
+* **Undergraduate in Computer Science**, Pakistan Institute of Applied & Social Science, [2024]
   * [Mention any relevant coursework, achievements, or projects]
-* **[Previous Educational Qualification (if applicable)]**, [Institution Name], [Year of Completion]
-  * [Mention any relevant details]
+* **[Google Cloud Data Analytics Certificate]**, Google Cloud, 2024
+  
 
 **Experience**
 
-* **[Job Title]**, [Company Name], [Start Date] - [End Date (or Present)]
-  * [Describe your responsibilities and achievements in a few bullet points]
-  * [Highlight any specific skills you developed in this role]
-* **[Previous Internship/Work Experience (if applicable)]**, [Company/Institution Name], [Dates]
-  * [Provide a brief overview of your work and contributions]
+* **[No Experience Yer!]**,
 
 **Projects**
 
