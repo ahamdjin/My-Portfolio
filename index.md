@@ -20,5 +20,5 @@ author_profile: true
 
 **Projects**
 
-* **Unlocking Lending Insights | Cloud Data Analytics (link to project if available)**
+* **Unlocking Lending Insights | Cloud Data Analytics (assets/images/TheLoock Fintech.pdf)**
 
