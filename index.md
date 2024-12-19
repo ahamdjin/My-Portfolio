@@ -20,9 +20,9 @@ author_profile: true
 
 **Projects**
 
-* **[Project Name] (link to project if available)**
-  * [Briefly describe the project, your role in it, and the key technologies used]
-  * [Mention any challenges you faced and how you overcame them]
-  * [Highlight the project's outcomes and your learnings]
-* **[Previous Project Name (link if available)]**
-  * [Repeat the process of describing the project, your role, and key takeaways]
+* **Unlocking Lending Insights | Cloud Data Analytics (link to project if available)**
+#  * [Briefly describe the project, your role in it, and the key technologies used]
+#  * [Mention any challenges you faced and how you overcame them]
+#  * [Highlight the project's outcomes and your learnings]
+#* **[Previous Project Name (link if available)]**
+#  * [Repeat the process of describing the project, your role, and key takeaways]
