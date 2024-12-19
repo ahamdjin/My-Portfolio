@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Ahmad YAR"
   avatar : "/assets/images/myphoto.jpg"
-  bio    : "Eager to learn and grow as a Data Analyst. I am a highly motivated and collaborative team player with a strong interest in data-driven solutions. Looking for an opportunity to contribute to a dynamic and innovative environment"
-  links:
+  bio    : "A cloud data analyst, cloud data technician, and cloud operations analyst roles. Foundational data analytics skills including basic SQL, data cleaning, analysis, visualization, and business intelligence. Cloud data analysts leverage cloud computing to prepare, process, and analyze data for key business decisions. Able to share findings effectively with stakeholders and provide data-driven recommendations.
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ahamd-yar/"
