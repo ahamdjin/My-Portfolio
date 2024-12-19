@@ -77,7 +77,7 @@ author:
 
 footer:
   links:
-     - label: "Linkedin"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://https://www.linkedin.com/in/ahamd-yar/"
   #  - label: "Twitter"
