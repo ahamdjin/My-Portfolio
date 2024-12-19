@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Previous Experience"
+layout: Experience
+permalink: /experience/
 author_profile: true
 ---
